@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-trio/trio-amqp/commit/9a572309e00db917590a579aacde8aea5d2e55b6",
       "git:hexsha": "9a572309e00db917590a579aacde8aea5d2e55b6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python-trio/trio-amqp/commit/dd805fc93e668b4ae094609d4afefa4561e64ae4",
