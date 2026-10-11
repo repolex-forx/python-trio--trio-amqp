@@ -1,0 +1,11 @@
+{
+  "org": "python-trio",
+  "repo": "trio-amqp",
+  "versions": [
+    {
+      "commit": "9a572309e00db917590a579aacde8aea5d2e55b6",
+      "tag": "",
+      "parsed_at": "2026-10-11T01:32:22.128289+00:00"
+    }
+  ]
+}
